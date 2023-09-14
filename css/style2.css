@@ -1,0 +1,47 @@
+.c-confirm
+{
+
+	background: url(../images/verificacion.jpg);
+	background: cover;
+	padding-bottom: 300px;
+
+}
+
+.c-verify
+{
+
+	background: url(../images/fondo-verificacion.jpg);
+	background: cover;
+
+}
+
+
+.c-confirm .conten1
+{
+	border-radius: 10px;
+	margin-top: 100px;
+
+}
+
+.c-verify .conten1
+{
+	border-radius: 10px;
+	margin-top: 100px;
+
+}
+
+.logo-phone
+{
+
+	z-index: 1000;  
+	margin-top: 50px; 
+	margin-left: 140px;
+
+}
+
+.logo-desk
+{
+	z-index: 1000; 
+	margin-top: 25px; 
+	margin-left: 480px;
+}
